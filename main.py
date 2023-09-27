@@ -7,5 +7,8 @@ for j in "Alejandro":
 for x in "Alberto":
     print(x)
 
+for y in "Guille Bográn":
+    print(y + "Mariano")
+
 for y in "Alfonso":
     print(y+ "Guille Mokry")
