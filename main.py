@@ -4,3 +4,5 @@ for i in "Alberto":
 for j in "Alejandro":
     print(j + "Al")
 
+for x in "Alberto":
+    print(x)
